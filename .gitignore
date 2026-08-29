@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.vscode/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.prproj
+*.aep
+assets/raw/
